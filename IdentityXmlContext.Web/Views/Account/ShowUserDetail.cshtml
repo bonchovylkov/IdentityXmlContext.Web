@@ -1,0 +1,9 @@
+﻿@using IdentityXmlContext.Web.Infrastructure.Extentions
+
+@model IdentityXmlContext.Web.Models.LoginViewModel
+@{
+    ViewBag.Title = "ShowUserDetail";
+}
+
+<h2>User Details</h2>
+@Html.SetUserData(Model)

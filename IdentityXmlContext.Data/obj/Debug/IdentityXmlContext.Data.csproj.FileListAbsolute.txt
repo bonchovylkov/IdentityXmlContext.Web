@@ -1,0 +1,9 @@
+M:\WORK\Job offer task\IdentityXmlContext.Web\IdentityXmlContext.Data\obj\Debug\IdentityXmlContext.Data.csprojResolveAssemblyReference.cache
+M:\WORK\Job offer task\IdentityXmlContext.Web\IdentityXmlContext.Data\bin\Debug\IdentityXmlContext.Data.dll
+M:\WORK\Job offer task\IdentityXmlContext.Web\IdentityXmlContext.Data\bin\Debug\IdentityXmlContext.Data.pdb
+M:\WORK\Job offer task\IdentityXmlContext.Web\IdentityXmlContext.Data\obj\Debug\IdentityXmlContext.Data.dll
+M:\WORK\Job offer task\IdentityXmlContext.Web\IdentityXmlContext.Data\obj\Debug\IdentityXmlContext.Data.pdb
+M:\WORK\Job offer task\IdentityXmlContext.Web\IdentityXmlContext.Data\bin\Debug\IdentityXmlContext.Model.dll
+M:\WORK\Job offer task\IdentityXmlContext.Web\IdentityXmlContext.Data\bin\Debug\IdentityXmlContext.Utils.dll
+M:\WORK\Job offer task\IdentityXmlContext.Web\IdentityXmlContext.Data\bin\Debug\IdentityXmlContext.Model.pdb
+M:\WORK\Job offer task\IdentityXmlContext.Web\IdentityXmlContext.Data\bin\Debug\IdentityXmlContext.Utils.pdb
